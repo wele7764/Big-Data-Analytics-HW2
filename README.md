@@ -1,5 +1,5 @@
-# Big-Data-Analytics-HW2
-Big Data Analytics Homework2
+# Big Data Analytics Homework2
+
 
 
 我對Microsoft Malware 2015 Dataset的資料:
@@ -7,13 +7,13 @@ Big Data Analytics Homework2
 LargeTrain.csv
 LargeTest.csv
 
-來統一做資料分析
+## 資料分析
 
 對於使用Xgboost:
 
 我得到 Accuracy: 99.41%
 
-Thresh=0.006, n=33, Accuracy: 99.39%
+Thresh=0.006, n=33, Accuracy: 99.39% < br>
 Thresh=0.005, n=42, Accuracy: 99.41%
 Thresh=0.003, n=88, Accuracy: 99.44%
 Thresh=0.002, n=135, Accuracy: 99.41%
