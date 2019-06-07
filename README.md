@@ -37,6 +37,8 @@ Thresh=0.000, n=1803, Accuracy: 99.11% <br/>
 
 的結果
 
+##  結論
+
 雖然兩者演算法的分析精準率都高達 99%
 
 但Xgboost 的精準率 往往比 Gradient Boosting 要來的高 0.2%以上
