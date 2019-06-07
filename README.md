@@ -13,13 +13,13 @@ LargeTest.csv
 
 我得到 Accuracy: 99.41%
 
-Thresh=0.006, n=33, Accuracy: 99.39% < br>
-Thresh=0.005, n=42, Accuracy: 99.41%
-Thresh=0.003, n=88, Accuracy: 99.44%
-Thresh=0.002, n=135, Accuracy: 99.41%
-Thresh=0.001, n=259, Accuracy: 99.41%
-Thresh=0.001, n=398, Accuracy: 99.39%
-Thresh=0.000, n=1803, Accuracy: 99.41%
+Thresh=0.006, n=33, Accuracy: 99.39% <br/>
+Thresh=0.005, n=42, Accuracy: 99.41% <br/>
+Thresh=0.003, n=88, Accuracy: 99.44% <br/>
+Thresh=0.002, n=135, Accuracy: 99.41% <br/>
+Thresh=0.001, n=259, Accuracy: 99.41% <br/>
+Thresh=0.001, n=398, Accuracy: 99.39% <br/>
+Thresh=0.000, n=1803, Accuracy: 99.41% <br/>
 
 的結果
 
@@ -27,13 +27,13 @@ Thresh=0.000, n=1803, Accuracy: 99.41%
 
 我得到 Accuracy: 99.16%
 
-Thresh=0.006, n=17, Accuracy: 99.25%
-Thresh=0.005, n=23, Accuracy: 99.25%
-Thresh=0.003, n=49, Accuracy: 99.19%
-Thresh=0.002, n=92, Accuracy: 99.25%
-Thresh=0.001, n=196, Accuracy: 99.25%
-Thresh=0.001, n=344, Accuracy: 99.14%
-Thresh=0.000, n=1803, Accuracy: 99.11%
+Thresh=0.006, n=17, Accuracy: 99.25% <br/>
+Thresh=0.005, n=23, Accuracy: 99.25% <br/>
+Thresh=0.003, n=49, Accuracy: 99.19% <br/>
+Thresh=0.002, n=92, Accuracy: 99.25% <br/>
+Thresh=0.001, n=196, Accuracy: 99.25% <br/>
+Thresh=0.001, n=344, Accuracy: 99.14% <br/>
+Thresh=0.000, n=1803, Accuracy: 99.11% <br/>
 
 的結果
 
